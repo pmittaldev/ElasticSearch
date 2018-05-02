@@ -1,2 +1,1 @@
-# ElasticSearch
-A complete guide to kick start with Elastic Search
+This repository contains all of the queries used within the ElasticSearch Handson
